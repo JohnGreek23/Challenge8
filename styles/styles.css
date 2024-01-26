@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Header styling */
+.weather-header {
+    background-color: #00008B; /* Deep blue background color */
+  }
+  
+  /* Search form and input styling */
+  .form-label {
+    color: #333; /* Dark text color */
+  }
+  
+  .weather-search {
+    width: 100%;
+  }
+  
+  .search-button {
+    background-color: #00008B; /* Deep blue button color */
+    color: #fff; /* White button text color */
+  }
+  
+  /* Search history styling */
+  .search-history {
+    margin-top: 20px;
+  }
+  
+  .search-history h2 {
+    color: #333; /* Dark text color */
+  }
+  
+  /* Results styling (you can customize this further) */
+  #today, #forecast {
+    background-color: #f5f5f5; /* Light gray background color */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
